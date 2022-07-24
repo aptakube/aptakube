@@ -2,6 +2,8 @@
 
 Aptakube is a Modern, lightweight and multi-cluster Kubernetes management UI. Available on Windows, macOS and Linux.
 
+Works on any Kubernetes 1.19+ cluster, including GKE, AKS, EKS and other managed Kubernetes services.
+
 > This repo is currently only used for issue tracking.
 
 ## Have a problem?
