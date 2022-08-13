@@ -1,4 +1,4 @@
-![Screen Shot 2022-07-24 at 11 06 16](https://user-images.githubusercontent.com/94755/180642241-f8886b97-2aa9-42f8-b3d7-338b19fb4daf.png)
+![Aptakube](https://user-images.githubusercontent.com/94755/184508691-191824fc-21cd-4417-881f-5c260c46ef58.png)
 
 Aptakube is a Modern, lightweight and multi-cluster Kubernetes desktop client. Available on Windows, macOS and Linux.
 
