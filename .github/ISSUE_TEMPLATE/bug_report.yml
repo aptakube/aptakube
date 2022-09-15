@@ -9,14 +9,14 @@ body:
   - type: textarea
     attributes:
       label: Current and expected behavior
-      description: A clear and concise description of what kube is doing and what you would expect.
+      description: What is Apkutabe doing and what you would expect instead?
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Additional context
-      description: "Add any other context about the problem here. Or a screenshot if applicable."
+      description: "Add any other context about the problem here. Please share screenshots where possible."
 
   - type: textarea
     attributes:
@@ -33,7 +33,7 @@ body:
     attributes:
       label: Environment
       description: |
-        What type of kubernetes cluster you are running aginst (k3s/eks/aks/gke/other)?
+        What's the kubernetes version?
       placeholder: |
         Output of `kubectl version --output=yaml`
     validations:
