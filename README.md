@@ -8,5 +8,5 @@ Visit https://aptakube.com to learn more!
 
 ## Neel help?
 
-- Open Github issue
-- support@aptakube.com
+- Open a Github issue
+- hello@aptakube.com
