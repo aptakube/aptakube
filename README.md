@@ -4,9 +4,10 @@ Aptakube is a Modern, lightweight and multi-cluster Kubernetes desktop client. A
 
 Visit https://aptakube.com to learn more!
 
-> This repo is currently only used for issue tracking.
+> This repo is only used for feature requests and bug tracking.
 
-## Neel help?
+## Need help?
 
-- Open a Github issue
-- hello@aptakube.com
+- Find us on Twitter @aptakube
+- Open a Github issue or a discussion 
+- Email us on hello@aptakube.com
