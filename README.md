@@ -1,22 +1,29 @@
-![](https://user-images.githubusercontent.com/94755/192987122-6aa15755-2542-48d1-a7c4-bf9d495fc56e.png)
+![](https://user-images.githubusercontent.com/94755/207884857-9149fd41-7014-4d35-9182-49416770b3f5.png)
 
-Aptakube is a Modern, lightweight and multi-cluster Kubernetes desktop client. 
+## Features
 
-- 💯 [Connect to one or more clusters simultaneously.](https://aptakube.com/multi-cluster)
-- ⚡️ [Supercharged Log Viewer.](https://aptakube.com/aggregated-logs)
-- 💪 [Human-friendly resource view.](https://aptakube.com/resource-view)
-- ✍️ [View & modify objects. Faster.](https://aptakube.com/yaml-editor)
-- 🎉 [Zero-config setup.](https://aptakube.com/zero-config)
-- 💻 [Available on Windows, macOS and Linux.](https://aptakube.com/#downloads)
+- 💯 Connect to one or more clusters simultaneously
+- ⚡️ Aggregated Log Viewer
+- 💪 Human-friendly resource view
+- ✍️ View & modify objects
+- 🎉 Zero-config setup
+- 😉 **NOT** another Electron app
+- ✅ Works with any Kubernetes cluster: on-prem, GKE, EKS, AKS and others.
+- 💻 Available on Windows, macOS and Linux
 
-- Visit https://aptakube.com to learn more!
+Visit [https://aptakube.com](https://aptakube.com?utm_campaign=github_readme) to learn more.
 
-❤️ Love Aptakube? Give us a shoutout 👉 https://testimonial.to/aptakube
+## Download
+
+- [Download Aptakube](https://aptakube.com)
+- [Changelog](https://aptakube.com/changelog)
 
 ## Need help?
 
-- Find us on Twitter @aptakube
+- Find us on [Twitter](https://twitter.com/aptakube) or [Mastodon](https://hachyderm.io/@aptakube)
 - Open a Github issue or a discussion 
-- Email us on hello@aptakube.com
+- Shoot us an email hello@aptakube.com
 
-> This repo is only used for feature requests and bug tracking.
+---
+
+❤️ Love Aptakube? Give us a shoutout 👉 https://testimonial.to/aptakube
