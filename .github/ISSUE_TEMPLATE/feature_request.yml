@@ -1,6 +1,6 @@
 name: "🚀 Feature Request"
 description: "I have a suggestion for Aptakube!"
-labels: ["enhancement"]
+labels: ["feature request"]
 body:
   - type: markdown
     attributes:
