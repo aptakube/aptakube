@@ -11,13 +11,9 @@ body:
       label: What problem are you trying to solve?
       description: |
         A concise description of what the problem is.
-      placeholder: |
-        I have an issue when [...]
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Describe the solution you'd like
-    validations:
-      required: true
