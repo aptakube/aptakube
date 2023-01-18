@@ -26,4 +26,4 @@ Visit [https://aptakube.com](https://aptakube.com?utm_campaign=github_readme) to
 
 ---
 
-❤️ Love Aptakube? Give us a shoutout 👉 https://senja.io/p/aptakube/r/ASb0RG
+❤️ Love Aptakube? Give us a shoutout 👉 [https://love.aptakube.com/r/ASb0RG](https://love.aptakube.com/r/ASb0RG?utm_medium=github)
