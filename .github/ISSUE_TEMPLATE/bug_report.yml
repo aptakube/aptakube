@@ -20,21 +20,11 @@ body:
 
   - type: textarea
     attributes:
-      label: Operating System
+      label: Environment & Operating System
       description: |
-        What OS are you using?
+        What OS are you using? What Kubernetes version/distribution is it?
       placeholder: |
         macOS Catalina? Windows 10? Ubuntu Linux?
-        Be as specific as possible.
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: Environment
-      description: |
-        What's the kubernetes version?
-      placeholder: |
-        Output of `kubectl version --output=yaml`
+        Kubernetes 1.26? 1.24? EKS? GKE? OpenShift? Vanilla?
     validations:
       required: true
