@@ -4,16 +4,10 @@ labels: ["feature request"]
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to suggest a new feature! Please fill out this form as completely as possible.
+      value: Thanks for taking the time to suggest a new feature!
 
   - type: textarea
     attributes:
-      label: What problem are you trying to solve?
-      description: |
-        A concise description of what the problem is.
+      label: What problem are you trying to solve? Do you a suggestion on how to solve it?
     validations:
       required: true
-
-  - type: textarea
-    attributes:
-      label: Describe the solution you'd like
