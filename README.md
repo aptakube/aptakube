@@ -20,6 +20,7 @@ Visit [https://aptakube.com](https://aptakube.com?utm_campaign=github_readme) to
 
 ## Need help?
 
+- Join us on [Discord](https://discord.gg/3W874NKh)
 - Find us on [Twitter](https://twitter.com/aptakube) or [Mastodon](https://hachyderm.io/@aptakube)
 - Open a Github issue or a discussion 
 - Shoot us an email hello@aptakube.com
