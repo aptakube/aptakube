@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/94755/207884857-9149fd41-7014-4d35-9182-49416770b3f5.png)
+![](https://aptakube.com/og.png)
 
 ## Features
 
