@@ -4,6 +4,8 @@
 
 - 💯 Connect to one or more clusters simultaneously
 - ⚡️ Aggregated Log Viewer
+- ⚖️ Resource Diff
+- ✌️ Multi-Namespace Selector
 - 💪 Human-friendly resource view
 - ✍️ View & modify objects
 - 🎉 Zero-config setup
