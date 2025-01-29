@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notify Discord
-        uses: SethCohen/github-releases-to-discord@v1.16.2
+        uses: SethCohen/github-releases-to-discord@master
         with:
           webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
